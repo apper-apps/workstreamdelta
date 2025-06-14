@@ -1,9 +1,10 @@
 import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import PostCard from '@/components/molecules/PostCard';
+import ApperIcon from '@/components/ApperIcon';
+import Button from '@/components/atoms/Button';
 import { postService } from '@/services';
 import { toast } from 'react-toastify';
-
 const FeedList = () => {
   const [posts, setPosts] = useState([]);
   const [loading, setLoading] = useState(false);
