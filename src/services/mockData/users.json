@@ -1,0 +1,170 @@
+[
+  {
+    "id": "1",
+    "name": "Sarah Chen",
+    "headline": "Senior Product Manager at TechFlow | Building the future of work",
+    "photoUrl": "https://images.unsplash.com/photo-1494790108755-2616b68f7d1b?w=400&h=400&fit=crop&crop=face",
+    "location": "San Francisco, CA",
+    "connections": ["2", "3", "4"],
+    "skills": ["Product Management", "User Research", "Data Analysis", "Agile", "Strategic Planning"],
+    "experience": [
+      {
+        "title": "Senior Product Manager",
+        "company": "TechFlow",
+        "duration": "2022 - Present",
+        "description": "Leading product strategy for enterprise collaboration tools"
+      }
+    ],
+    "education": [
+      {
+        "degree": "MBA",
+        "school": "Stanford Graduate School of Business",
+        "year": "2020"
+      }
+    ],
+    "bio": "Passionate about creating products that help teams collaborate more effectively. 8+ years experience in product management with a focus on B2B SaaS platforms.",
+    "website": "https://sarahchen.com",
+    "followers": 2847,
+    "following": 892
+  },
+  {
+    "id": "2",
+    "name": "Marcus Rodriguez",
+    "headline": "Full Stack Developer | React & Node.js Expert | Open Source Contributor",
+    "photoUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face",
+    "location": "Austin, TX",
+    "connections": ["1", "3", "5"],
+    "skills": ["JavaScript", "React", "Node.js", "TypeScript", "AWS", "GraphQL"],
+    "experience": [
+      {
+        "title": "Senior Full Stack Developer",
+        "company": "InnovateLabs",
+        "duration": "2021 - Present",
+        "description": "Building scalable web applications and mentoring junior developers"
+      }
+    ],
+    "education": [
+      {
+        "degree": "BS Computer Science",
+        "school": "University of Texas at Austin",
+        "year": "2018"
+      }
+    ],
+    "bio": "Full stack developer with 6+ years of experience. Passionate about clean code, performance optimization, and contributing to open source projects.",
+    "website": "https://marcusdev.io",
+    "followers": 1923,
+    "following": 456
+  },
+  {
+    "id": "3",
+    "name": "Dr. Emily Watson",
+    "headline": "UX Research Director | Human-Centered Design Advocate | PhD in Cognitive Psychology",
+    "photoUrl": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&h=400&fit=crop&crop=face",
+    "location": "Seattle, WA",
+    "connections": ["1", "2", "4", "6"],
+    "skills": ["UX Research", "User Testing", "Design Thinking", "Psychology", "Data Visualization"],
+    "experience": [
+      {
+        "title": "UX Research Director",
+        "company": "CloudSync",
+        "duration": "2020 - Present",
+        "description": "Leading user research initiatives for enterprise software products"
+      }
+    ],
+    "education": [
+      {
+        "degree": "PhD Cognitive Psychology",
+        "school": "University of Washington",
+        "year": "2017"
+      }
+    ],
+    "bio": "UX researcher with a strong background in cognitive psychology. Focused on understanding user behavior and translating insights into actionable design recommendations.",
+    "website": "https://emilywatson-ux.com",
+    "followers": 3421,
+    "following": 1089
+  },
+  {
+    "id": "4",
+    "name": "David Kim",
+    "headline": "DevOps Engineer | Kubernetes Expert | Cloud Architecture Specialist",
+    "photoUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop&crop=face",
+    "location": "New York, NY",
+    "connections": ["1", "3", "5"],
+    "skills": ["DevOps", "Kubernetes", "Docker", "AWS", "Terraform", "CI/CD"],
+    "experience": [
+      {
+        "title": "Senior DevOps Engineer",
+        "company": "ScaleMax",
+        "duration": "2019 - Present",
+        "description": "Designing and implementing cloud infrastructure for high-traffic applications"
+      }
+    ],
+    "education": [
+      {
+        "degree": "MS Computer Engineering",
+        "school": "Columbia University",
+        "year": "2018"
+      }
+    ],
+    "bio": "DevOps engineer specializing in container orchestration and cloud infrastructure. Passionate about automation and helping teams deploy faster and more reliably.",
+    "website": "https://davidkim-devops.dev",
+    "followers": 1567,
+    "following": 734
+  },
+  {
+    "id": "5",
+    "name": "Jessica Park",
+    "headline": "Digital Marketing Manager | Growth Hacker | Content Strategy Expert",
+    "photoUrl": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=400&h=400&fit=crop&crop=face",
+    "location": "Los Angeles, CA",
+    "connections": ["2", "4", "6"],
+    "skills": ["Digital Marketing", "Content Strategy", "SEO", "Analytics", "Social Media", "Growth Hacking"],
+    "experience": [
+      {
+        "title": "Digital Marketing Manager",
+        "company": "GrowthCo",
+        "duration": "2021 - Present",
+        "description": "Driving user acquisition and engagement through data-driven marketing campaigns"
+      }
+    ],
+    "education": [
+      {
+        "degree": "BA Marketing",
+        "school": "UCLA",
+        "year": "2019"
+      }
+    ],
+    "bio": "Digital marketer with expertise in growth strategies and content creation. Love turning data insights into compelling campaigns that drive real business results.",
+    "website": "https://jessicapark-marketing.com",
+    "followers": 2156,
+    "following": 1203
+  },
+  {
+    "id": "6",
+    "name": "Alex Thompson",
+    "headline": "Data Scientist | Machine Learning Engineer | AI Enthusiast",
+    "photoUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=400&h=400&fit=crop&crop=face",
+    "location": "Boston, MA",
+    "connections": ["3", "5"],
+    "skills": ["Python", "Machine Learning", "Deep Learning", "Data Analysis", "TensorFlow", "SQL"],
+    "experience": [
+      {
+        "title": "Senior Data Scientist",
+        "company": "DataVision",
+        "duration": "2020 - Present",
+        "description": "Building ML models for predictive analytics and business intelligence"
+      }
+    ],
+    "education": [
+      {
+        "degree": "MS Data Science",
+        "school": "MIT",
+        "year": "2019"
+      }
+    ],
+    "bio": "Data scientist passionate about leveraging machine learning to solve complex business problems. Experienced in end-to-end ML pipeline development.",
+    "website": "https://alexthompson-data.com",
+    "followers": 1834,
+    "following": 567
+  }
+]

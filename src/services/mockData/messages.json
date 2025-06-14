@@ -1,0 +1,72 @@
+[
+  {
+    "id": "conv1",
+    "participants": ["1", "2"],
+    "messages": [
+      {
+        "id": "msg1",
+        "senderId": "2",
+        "content": "Hi Sarah! Thanks for connecting. I loved your recent post about the Q4 roadmap.",
+        "timestamp": "2024-01-15T16:30:00Z",
+        "read": true
+      },
+      {
+        "id": "msg2",
+        "senderId": "1",
+        "content": "Thanks Marcus! I saw your React component library announcement - that's incredible work. Are you planning to add any specific accessibility features?",
+        "timestamp": "2024-01-15T17:15:00Z",
+        "read": true
+      },
+      {
+        "id": "msg3",
+        "senderId": "2",
+        "content": "Absolutely! Accessibility is a top priority. I'm working on ARIA support and keyboard navigation for all components. Would love your feedback when it's ready.",
+        "timestamp": "2024-01-15T17:45:00Z",
+        "read": false
+      }
+    ],
+    "createdAt": "2024-01-15T16:30:00Z"
+  },
+  {
+    "id": "conv2",
+    "participants": ["1", "3"],
+    "messages": [
+      {
+        "id": "msg4",
+        "senderId": "3",
+        "content": "Sarah, your insights on progressive disclosure align perfectly with our recent research findings. Would you be interested in collaborating on a case study?",
+        "timestamp": "2024-01-14T14:20:00Z",
+        "read": true
+      },
+      {
+        "id": "msg5",
+        "senderId": "1",
+        "content": "That sounds fascinating! I'd love to learn more about your research methodology. When would be a good time to chat?",
+        "timestamp": "2024-01-14T15:30:00Z",
+        "read": true
+      }
+    ],
+    "createdAt": "2024-01-14T14:20:00Z"
+  },
+  {
+    "id": "conv3",
+    "participants": ["2", "4"],
+    "messages": [
+      {
+        "id": "msg6",
+        "senderId": "4",
+        "content": "Hey Marcus, saw your component library! The TypeScript definitions look solid. Have you considered adding Docker support for development?",
+        "timestamp": "2024-01-13T19:00:00Z",
+        "read": true
+      },
+      {
+        "id": "msg7",
+        "senderId": "2",
+        "content": "Great suggestion! I was actually thinking about that. A Docker setup would make it much easier for contributors to get started.",
+        "timestamp": "2024-01-13T19:30:00Z",
+        "read": false
+      }
+    ],
+    "createdAt": "2024-01-13T19:00:00Z"
+  }
+]

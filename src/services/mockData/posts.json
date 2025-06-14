@@ -1,0 +1,116 @@
+[
+  {
+    "id": "1",
+    "authorId": "1",
+    "content": "Just finished presenting our Q4 product roadmap to the executive team. Excited about the new collaboration features we're building! The future of remote work is going to be incredible. 🚀\n\nKey highlights:\n✅ Real-time document collaboration\n✅ AI-powered meeting summaries\n✅ Enhanced video conferencing\n\nWhat features would you love to see in your work tools?",
+    "timestamp": "2024-01-15T14:30:00Z",
+    "likes": 127,
+    "comments": [
+      {
+        "id": "c1",
+        "authorId": "2",
+        "content": "The AI meeting summaries sound amazing! That would save so much time.",
+        "timestamp": "2024-01-15T15:45:00Z"
+      },
+      {
+        "id": "c2",
+        "authorId": "3",
+        "content": "Would love to see better integration with design tools. Collaboration between designers and PMs is crucial!",
+        "timestamp": "2024-01-15T16:12:00Z"
+      }
+    ],
+    "type": "update"
+  },
+  {
+    "id": "2",
+    "authorId": "3",
+    "content": "Fascinating research findings from our latest user study! 📊\n\nWe discovered that 73% of users abandon complex workflows after the 3rd step. This reinforces the importance of progressive disclosure in UX design.\n\nKey takeaways:\n• Simplify initial interactions\n• Provide contextual help\n• Use visual hierarchy effectively\n• Test early and often\n\nWhat's your biggest UX challenge right now?",
+    "timestamp": "2024-01-14T10:15:00Z",
+    "likes": 89,
+    "comments": [
+      {
+        "id": "c3",
+        "authorId": "1",
+        "content": "This aligns perfectly with what we're seeing in our product analytics. Thanks for sharing!",
+        "timestamp": "2024-01-14T11:20:00Z"
+      }
+    ],
+    "type": "insight"
+  },
+  {
+    "id": "3",
+    "authorId": "2",
+    "content": "🎉 Excited to announce that I just open-sourced my React component library!\n\nAfter months of building reusable components for our projects, I decided to share them with the community. The library includes:\n\n• Accessible form components\n• Responsive layout helpers\n• Dark mode support\n• TypeScript definitions\n\nCheck it out on GitHub and let me know what you think! Contributions welcome 🙌\n\n#OpenSource #React #JavaScript",
+    "timestamp": "2024-01-13T16:45:00Z",
+    "likes": 234,
+    "comments": [
+      {
+        "id": "c4",
+        "authorId": "4",
+        "content": "This looks fantastic! The TypeScript support is exactly what I needed for my current project.",
+        "timestamp": "2024-01-13T17:30:00Z"
+      },
+      {
+        "id": "c5",
+        "authorId": "6",
+        "content": "Great work! I'll definitely be using this in my next project. Thanks for sharing!",
+        "timestamp": "2024-01-13T18:15:00Z"
+      }
+    ],
+    "type": "achievement"
+  },
+  {
+    "id": "4",
+    "authorId": "5",
+    "content": "Marketing lesson learned the hard way: Don't assume your audience thinks like you do! 🎯\n\nWe A/B tested two landing pages:\n📈 Version A (technical features): 2.3% conversion\n📈 Version B (benefits-focused): 7.8% conversion\n\nThe difference? Version B spoke to customer pain points, not product features.\n\nRemember: People don't buy products, they buy solutions to their problems.\n\n#Marketing #ConversionOptimization #LessonsLearned",
+    "timestamp": "2024-01-12T13:20:00Z",
+    "likes": 156,
+    "comments": [
+      {
+        "id": "c6",
+        "authorId": "1",
+        "content": "This is such a crucial insight! We see this pattern across all our user research too.",
+        "timestamp": "2024-01-12T14:05:00Z"
+      }
+    ],
+    "type": "insight"
+  },
+  {
+    "id": "5",
+    "authorId": "4",
+    "content": "DevOps tip of the day: Use health checks effectively! 🏥\n\nJust implemented comprehensive health checks across our microservices and the improvement in system reliability has been remarkable.\n\nBest practices I've learned:\n✅ Check dependencies, not just service status\n✅ Include meaningful error messages\n✅ Set appropriate timeouts\n✅ Monitor health check performance\n\nWhat's your go-to strategy for service monitoring?",
+    "timestamp": "2024-01-11T09:30:00Z",
+    "likes": 92,
+    "comments": [
+      {
+        "id": "c7",
+        "authorId": "2",
+        "content": "Great advice! We recently implemented something similar and caught several issues before they hit production.",
+        "timestamp": "2024-01-11T10:15:00Z"
+      }
+    ],
+    "type": "tip"
+  },
+  {
+    "id": "6",
+    "authorId": "6",
+    "content": "Machine Learning breakthrough! 🤖\n\nOur customer churn prediction model just achieved 94% accuracy on the validation set. The key was feature engineering - we discovered that user engagement patterns in the first 7 days are incredibly predictive.\n\nInteresting findings:\n• Session frequency matters more than duration\n• Feature adoption order is crucial\n• Support ticket sentiment is a strong signal\n\nNow working on turning these insights into actionable recommendations for the customer success team.\n\n#MachineLearning #DataScience #CustomerSuccess",
+    "timestamp": "2024-01-10T11:45:00Z",
+    "likes": 178,
+    "comments": [
+      {
+        "id": "c8",
+        "authorId": "3",
+        "content": "The user engagement patterns insight is fascinating! Have you considered how this relates to UX onboarding flows?",
+        "timestamp": "2024-01-10T12:30:00Z"
+      },
+      {
+        "id": "c9",
+        "authorId": "5",
+        "content": "This could be game-changing for retention marketing campaigns. Would love to discuss how we could leverage similar models!",
+        "timestamp": "2024-01-10T13:15:00Z"
+      }
+    ],
+    "type": "achievement"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "id": "1",
+    "companyId": "comp1",
+    "companyName": "TechFlow",
+    "companyLogo": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=100&h=100&fit=crop",
+    "title": "Senior Product Manager",
+    "location": "San Francisco, CA",
+    "remote": true,
+    "type": "Full-time",
+    "salary": {
+      "min": 140000,
+      "max": 180000,
+      "currency": "USD"
+    },
+    "requirements": [
+      "5+ years product management experience",
+      "Experience with B2B SaaS products",
+      "Strong analytical skills",
+      "Agile methodology expertise",
+      "Excellent communication skills"
+    ],
+    "description": "Join our product team to shape the future of workplace collaboration. Lead product strategy for our enterprise platform serving 10M+ users worldwide.",
+    "posted": "2024-01-14T08:00:00Z",
+    "applicants": 47
+  },
+  {
+    "id": "2",
+    "companyId": "comp2",
+    "companyName": "InnovateLabs",
+    "companyLogo": "https://images.unsplash.com/photo-1549924231-f129b911e442?w=100&h=100&fit=crop",
+    "title": "Full Stack Developer",
+    "location": "Austin, TX",
+    "remote": true,
+    "type": "Full-time",
+    "salary": {
+      "min": 90000,
+      "max": 130000,
+      "currency": "USD"
+    },
+    "requirements": [
+      "React and Node.js proficiency",
+      "3+ years full stack experience",
+      "Database design experience",
+      "API development",
+      "Git version control"
+    ],
+    "description": "Build cutting-edge web applications using modern technologies. Work with a talented team on products that impact millions of users.",
+    "posted": "2024-01-13T14:30:00Z",
+    "applicants": 89
+  },
+  {
+    "id": "3",
+    "companyId": "comp3",
+    "companyName": "CloudSync",
+    "companyLogo": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=100&h=100&fit=crop",
+    "title": "UX Research Lead",
+    "location": "Seattle, WA",
+    "remote": false,
+    "type": "Full-time",
+    "salary": {
+      "min": 120000,
+      "max": 150000,
+      "currency": "USD"
+    },
+    "requirements": [
+      "PhD in Psychology, HCI, or related field",
+      "7+ years UX research experience",
+      "Quantitative and qualitative research methods",
+      "Experience with enterprise software",
+      "Team leadership experience"
+    ],
+    "description": "Lead our UX research team to drive user-centered design decisions. Work closely with product and design teams to create exceptional user experiences.",
+    "posted": "2024-01-12T10:15:00Z",
+    "applicants": 32
+  },
+  {
+    "id": "4",
+    "companyId": "comp4",
+    "companyName": "ScaleMax",
+    "companyLogo": "https://images.unsplash.com/photo-1560472355-109703aa3edc?w=100&h=100&fit=crop",
+    "title": "DevOps Engineer",
+    "location": "New York, NY",
+    "remote": true,
+    "type": "Full-time",
+    "salary": {
+      "min": 110000,
+      "max": 145000,
+      "currency": "USD"
+    },
+    "requirements": [
+      "Kubernetes and Docker expertise",
+      "AWS or Azure cloud experience",
+      "Infrastructure as Code (Terraform)",
+      "CI/CD pipeline experience",
+      "Monitoring and observability tools"
+    ],
+    "description": "Join our platform team to build and maintain infrastructure for high-scale applications. Help us serve millions of requests per day with 99.9% uptime.",
+    "posted": "2024-01-11T16:45:00Z",
+    "applicants": 56
+  },
+  {
+    "id": "5",
+    "companyId": "comp5",
+    "companyName": "GrowthCo",
+    "companyLogo": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=100&h=100&fit=crop",
+    "title": "Growth Marketing Manager",
+    "location": "Los Angeles, CA",
+    "remote": true,
+    "type": "Full-time",
+    "salary": {
+      "min": 85000,
+      "max": 115000,
+      "currency": "USD"
+    },
+    "requirements": [
+      "3+ years growth marketing experience",
+      "Performance marketing expertise",
+      "Analytics and A/B testing",
+      "Content marketing skills",
+      "SEO and SEM knowledge"
+    ],
+    "description": "Drive user acquisition and retention through data-driven marketing campaigns. Work with a fast-growing startup to scale from 1M to 10M users.",
+    "posted": "2024-01-10T12:00:00Z",
+    "applicants": 73
+  },
+  {
+    "id": "6",
+    "companyId": "comp6",
+    "companyName": "DataVision",
+    "companyLogo": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=100&h=100&fit=crop",
+    "title": "Machine Learning Engineer",
+    "location": "Boston, MA",
+    "remote": true,
+    "type": "Full-time",
+    "salary": {
+      "min": 130000,
+      "max": 170000,
+      "currency": "USD"
+    },
+    "requirements": [
+      "MS/PhD in Computer Science or related field",
+      "Python and TensorFlow/PyTorch",
+      "MLOps and model deployment",
+      "Statistical analysis and modeling",
+      "Big data processing (Spark, Hadoop)"
+    ],
+    "description": "Build and deploy ML models at scale. Work on cutting-edge AI projects that solve real-world business problems for Fortune 500 companies.",
+    "posted": "2024-01-09T09:30:00Z",
+    "applicants": 91
+  }
+]
